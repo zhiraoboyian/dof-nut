@@ -1,0 +1,3 @@
+```squirrel title:<% tp.file.cursor(1) %>
+<% tp.file.selection() || tp.file.cursor(2) %>
+```
