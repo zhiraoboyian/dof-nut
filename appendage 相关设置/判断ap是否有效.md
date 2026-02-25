@@ -1,0 +1,3 @@
+```squirrel title:
+appendage.isValid();
+```
